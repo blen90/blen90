@@ -22,7 +22,7 @@ https://blen90.github.io/react-portfolio/#about
 ## Hobbies
 
 * Living an loving life with my furries :dog: :dog2: :cat:
-* Sunset lover
+* Sunset lover 	:sunrise:
 * Long walks and hikes :walking_woman:
 * Cooking all sorts of international foods :shallow_pan_of_food: :spaghetti: :curry: :ramen:
 * Festivals and concerts :notes: :musical_note:
