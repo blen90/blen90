@@ -17,7 +17,7 @@ https://blen90.github.io/react-portfolio/#about
 ## Contact Me
 
 * Email: blen.or90@gmail.com
-* LinkedIn Profile: linkedin.com/in/blenda-orellana
+* LinkedIn Profile: https://www.linkedin.com/in/blenda-orellana/
 
 ## Hobbies
 
