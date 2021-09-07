@@ -21,10 +21,11 @@ https://blen90.github.io/react-portfolio/#about
 
 ## Hobbies
 
-* Loving life with my furries :feet: :paw_prints: :paw_prints:
-* Long walks and hikes with my two dogs :dog: :dog2: and playing games with my :cat:
+* Living an loving life with my furries :dog: :dog2: :cat:
+* Sunset lover
+* Long walks and hikes :walking_woman:
 * Cooking all sorts of international foods :shallow_pan_of_food: :spaghetti: :curry: :ramen:
-* Festivals and concerts :notes: :musical_note
+* Festivals and concerts :notes: :musical_note:
 * Travelling :flight_departure:
 
 ## Fun Fact
