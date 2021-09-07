@@ -16,13 +16,13 @@ https://blen90.github.io/react-portfolio/#about
 
 ## Contact Me
 
-Email: blen.or90@gmail.com
-LinkedIn Profile: linkedin.com/in/blenda-orellana
+* Email: blen.or90@gmail.com
+* LinkedIn Profile: linkedin.com/in/blenda-orellana
 
 ## Hobbies
 
-* Loving my furries :feet: :paw_prints:
-* Long walks and hikes with my two :dog: :dog2: and playing games with my :cat:
+* Loving life with my furries :feet: :paw_prints: :paw_prints:
+* Long walks and hikes with my two dogs :dog: :dog2: and playing games with my :cat:
 * Cooking all sorts of international foods :shallow_pan_of_food: :spaghetti: :curry: :ramen:
 * Festivals and concerts :notes: :musical_note
 * Travelling :flight_departure:
